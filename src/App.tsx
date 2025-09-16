@@ -8,6 +8,7 @@ export default function App() {
         <nav className="space-x-4">
           <Link to="/" className="hover:text-blue-500">Products</Link>
           <Link to="/favourites" className="hover:text-blue-500">Favourites</Link>
+          <Link to="/add-product" className="hover:text-blue-500">Add Product</Link>
         </nav>
       </header>
 
